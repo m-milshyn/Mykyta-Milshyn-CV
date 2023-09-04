@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Playfair-Display";
+    src: url("../fonts/PlayfairDisplay-VariableFont_wght.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Inter Tight";
+    src: url("../fonts/InterTight-VariableFont_wght.ttf") format("truetype");
+}
